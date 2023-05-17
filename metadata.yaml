@@ -1,0 +1,35 @@
+_repo: Cosmic-symbolism-b-Being-a-discussion-and-exposition-of-some-recondite-and-obscure-points-in-__70749
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sepharial
+    aliases:
+    - Old, Walter Gorn
+    - Gorn-Old, Walter
+    birthdate: 1864
+    deathdate: 1929
+    gutenberg_agent_id: '32128'
+    url: http://www.gutenberg.org/2009/agents/32128
+    wikipedia: http://en.wikipedia.org/wiki/Sepharial
+description: ''
+gutenberg_issued: '2023-05-12'
+identifiers:
+  gutenberg: '70749'
+language: en
+pgterms:marc904: https://archive.org/details/in.ernet.dli.2015.219777
+pgterms:marc905: 20200123135010old
+pgterms:marc906: '1912'
+pgterms:marc907: GB
+production_note: daerider, David King, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net. (This book was produced from images generously made available
+  by The Internet Archive.)
+publication_note: '  $aUnited Kingdom :$bWilliam Rider & Son, Limited, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cosmic symbolism : $b Being a discussion and exposition of some recondite
+  and obscure points in the art of the Kabalists, the mysteries of sound, form and
+  number, and the basic principles of cosmic symbolism'
+url: http://www.gutenberg.org/ebooks/70749
