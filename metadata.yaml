@@ -1,5 +1,8 @@
 _repo: Cosmic-symbolism-b-Being-a-discussion-and-exposition-of-some-recondite-and-obscure-points-in-__70749
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70749-h/images/cover.jpg
 creator:
   author:
     agent_name: Sepharial
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32128
     wikipedia: http://en.wikipedia.org/wiki/Sepharial
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70749#Cosmic-symbolism-b-Being-a-discussion-and-exposition-of-some-recondite-and-obscure-points-in-_
 gutenberg_issued: '2023-05-12'
 identifiers:
   gutenberg: '70749'
